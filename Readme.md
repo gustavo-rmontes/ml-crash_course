@@ -1,7 +1,7 @@
 # Notes from ML-Crash Course
 This repository contains notes and algoritms written for the [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course).
 
-They're sectioned according to the Crash Course progress.
+They're divided according to the Crash Course sections.
 
 ## Sections
 - Basic ML models:
